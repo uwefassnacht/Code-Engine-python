@@ -1,2 +1,2 @@
-flasks=2.0.3
+flask
 waitress
